@@ -24,6 +24,18 @@ Ainda sem imagens
 
 ## Conceitos importantes, dicas, referências para conceitos
 
+### styled-components
+
+Permite que os compoentes React sejam estilizados utilizando uma sintaxe JavaScript ou TypeScript ao invés de utilizar a sintaxe de CSS. Isso permite que a estilização se torne mais flexível e que possam ser utilizadas variáveis que o componente a ser estilizado recebe em suas props ou variáveis criadas dentro do próprio componente.
+
+### ESLint
+
+Determina quais os padrões de código para o projeto, desde quebras de linha, aspas, uso de vírgulas e ponto-e-vírgula até regras relacionadas ao próprio React e seus hooks.
+
+### React Router (DOM)
+
+...
+
 ## Referências ao projeto
 
 [Ignite](https://app.rocketseat.com.br/ignite) >
