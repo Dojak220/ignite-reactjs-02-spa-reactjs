@@ -3,7 +3,7 @@
   "rules": {
     "prettier/prettier": ["error", {
       "doubleQuote": true,
-      "singleQuote": false
+      "endOfLine": "auto"
     }]
   }
 }
