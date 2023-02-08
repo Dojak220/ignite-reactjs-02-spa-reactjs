@@ -34,7 +34,7 @@ Determina quais os padrões de código para o projeto, desde quebras de linha, a
 
 ### React Router (DOM)
 
-...
+Define as rotas a partir dos requisitos do projeto e, por meio delas, gerencia o fluxo de navegação da aplicação.
 
 ## Referências ao projeto
 
